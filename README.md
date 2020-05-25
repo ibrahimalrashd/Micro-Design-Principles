@@ -54,7 +54,7 @@ For ex :
 *  **The figure on the left is an optical microscope image of glue balls. The second figure from left is a scanning ion secondary electron image of the glue balls. The two figures on the right are the scanning ion secondary electron images before and after adhesion of the substrate to the glue ball**
 
 ![1920px-Glue_ball](https://user-images.githubusercontent.com/53704509/82745944-b1ae5600-9d92-11ea-8be7-caab97c7a59b.png)
-and of course there are cases where you can't tell if it is MD or not  ,cause sometimes small is look like it is big , and this is normal .
+and of course there are cases where you can't tell if it is MD or not  ,cause sometimes small is look like it is big , and this is normal.
 
 * Now we can use those properties to create our own MD !
 
