@@ -4,7 +4,7 @@ the most common example that has a lot of examples about MD is Nature !
 
 well , in case you didn't know what we are talking about , hold something in your hand (flower , pen ,  cloth , ...etc) , and try to have the most closer look , what you will see ? ...not too much , right?
 because your eyes have limit for what they can see...obviously !
-but if have a microscope or good camera with strong lens you will be able to see new worlds.
+but if you have a microscope or good camera with strong lens you will be able to see new worlds.
 
 * 'X' key of a computer keyboard
 ![13731761_1524207264273967_5570880924347745901_o](https://user-images.githubusercontent.com/53704509/82727436-3e093c00-9cf3-11ea-998f-d2aeccc20a5a.jpg)
