@@ -15,7 +15,7 @@ but if you have a microscope or good camera with strong lens you will be able to
 * Apple stalk
 ![13717263_1524207387607288_5828772625531959925_o](https://user-images.githubusercontent.com/53704509/82727580-00f17980-9cf4-11ea-91d9-dacf2ac4ce57.jpg)
 
-* In our previous examples ,there are many properties in common, and it is these properties that make our objects look like infinitesimal and are not visible to the naked eye , and they are :
+* In our previous examples ,there are many properties in common, and these properties which they make our objects look like infinitesimal and not visible to the naked eye , and they are :
 1) **Mono and bi-color**
 2) **Isolated and non-isolated areas**
 3) **Pattern**
